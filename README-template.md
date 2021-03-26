@@ -99,9 +99,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Lucky-Victory.dev](https://lucky-victory.dev)
+- Frontend Mentor - [@luckyvictory](https://www.frontendmentor.io/profile/luckyvictory)
+- Twitter - [@Lucky_Victory1](https://www.twitter.com/lucky_victory1)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
